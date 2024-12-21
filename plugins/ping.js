@@ -4,7 +4,7 @@ const { fetchJson } = require('../lib/functions');
 
 // Movie Search Command
 cmd({
-    pattern: "movie",
+    pattern: "kawwa",
     alias: ["movi", "moviesearch"],
     use: '.movie <query>',
     react: "🔎",
